@@ -32,7 +32,7 @@ const DUMMY_MEALS = [
 
 const AvailableMeals = props => {
   const mealList = DUMMY_MEALS.map(meal=>{
-    return <MealItem key={meal.id} price={meal.price} name={meal.name} description={meal.description}/>
+    return <MealItem key={meal.id} id={meal.id} price={meal.price} name={meal.name} description={meal.description}/>
   });
 
   return (
