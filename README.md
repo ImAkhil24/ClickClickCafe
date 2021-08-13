@@ -1,3 +1,6 @@
+Your customisable online menu.Primlarly targeted for small restaurants.One use case may be the college cafiteria who want to make their items easily accesible to the students and want to keep the menu in sync with the stock.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
